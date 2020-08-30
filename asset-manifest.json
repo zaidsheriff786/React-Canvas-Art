@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Canvas-Art/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Canvas-Art/static/js/main.ef817ae7.chunk.js",
+    "main.js.map": "/React-Canvas-Art/static/js/main.ef817ae7.chunk.js.map",
+    "runtime-main.js": "/React-Canvas-Art/static/js/runtime-main.15b40a10.js",
+    "runtime-main.js.map": "/React-Canvas-Art/static/js/runtime-main.15b40a10.js.map",
+    "static/js/2.a636e200.chunk.js": "/React-Canvas-Art/static/js/2.a636e200.chunk.js",
+    "static/js/2.a636e200.chunk.js.map": "/React-Canvas-Art/static/js/2.a636e200.chunk.js.map",
+    "index.html": "/React-Canvas-Art/index.html",
+    "precache-manifest.af804bdacfc0b549432abdc3254ffee7.js": "/React-Canvas-Art/precache-manifest.af804bdacfc0b549432abdc3254ffee7.js",
+    "service-worker.js": "/React-Canvas-Art/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Canvas-Art/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a636e200.chunk.js.LICENSE.txt": "/React-Canvas-Art/static/js/2.a636e200.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15b40a10.js",
+    "static/js/2.a636e200.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ef817ae7.chunk.js"
+  ]
+}
