@@ -30,10 +30,10 @@ function App() {
 		setIsDrawing(false)
 	}
 	const draw = ({ nativeEvent }) => {
-		const { offsetX, offsetY } = nativeEvent
 		if (!isDrawing) {
 			return
 		}
+		const { offsetX, offsetY } = nativeEvent
 		contextRef.current.lineTo(offsetX, offsetY)
 		contextRef.current.stroke()
 	}
