@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from "react"
 
+var test = "test"
 function App() {
   const canvasRef = useRef(null)
   const contextRef = useRef(null)
