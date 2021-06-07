@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react"
 
-var fabric = "three.js"
 function App() {
   const canvasRef = useRef(null)
   const contextRef = useRef(null)
